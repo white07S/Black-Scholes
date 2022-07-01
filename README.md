@@ -2,6 +2,8 @@
 
 Implementation of Black Scholes model in python and tested on Options
 
+**Its important to understand that options trading and its algorithms depend on caching and spread so this profit and performance can be increased if this algorithm is written in C or C++**
+
 Black-Scholes is a pricing model used to determine the fair price or **theoretical value for a call or a put option based on six variables** such as volatility, type of option, underlying stock price, time, strike price, and risk-free rate.
 
 ![image](https://user-images.githubusercontent.com/58583011/176910703-66a35f39-e00d-4b4b-9153-400904b15d4b.png)

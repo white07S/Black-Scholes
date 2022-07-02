@@ -21,6 +21,8 @@ an asset-or-nothing call minus a cash-or-nothing call (long an asset-or-nothing 
 A call option exchanges cash for an asset at expiry, while an asset-or-nothing call just yields the asset (with no cash in exchange) and a cash-or-nothing call just yields cash (with no asset in exchange). 
 The Black–Scholes formula is a difference of two terms, and these two terms equal the values of the binary call options. These binary options are much less frequently traded than vanilla call options, but are easier to analyze.
 
+**Dataset**
+![Screenshot from 2022-07-02 12-37-47](https://user-images.githubusercontent.com/58583011/176997599-dd8d07b0-bc6d-4433-a486-da976414c3da.png)
 
 The model is widely employed as a useful **approximation** to reality, but proper application requires understanding its **limitations**
 
